@@ -1,4 +1,5 @@
 # ps0
+# このGitHubは、受講生のみに対して公開しています。受講生以外のご利用はご遠慮下さい。
 # zoom ID & passcodeは、以下の通りになります。
 Zoomミーティングに参加する
 https://sophia-ac-jp.zoom.us/j/98724094248
