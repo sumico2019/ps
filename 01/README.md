@@ -84,7 +84,7 @@
 ![image](https://user-images.githubusercontent.com/87138262/159856699-a4f07c04-d3f0-48ca-8830-cbf440121536.png)
 ---
 ### 29枚目のスライド
-![image](https://user-images.githubusercontent.com/87138262/159856757-b2d65df4-83c1-4472-8025-5d4fa3398558.png)
+![image](https://user-images.githubusercontent.com/87138262/160509810-02dffe9e-026f-4005-b85a-ebba1312d737.png)
 ---
 ### 30枚目のスライド
 ![image](https://user-images.githubusercontent.com/87138262/159856823-7753819f-e31f-4fff-9baa-3d0ea0d93c85.png)
