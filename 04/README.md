@@ -60,7 +60,7 @@
 ![image](https://user-images.githubusercontent.com/87138262/159872383-596a5297-ec11-48de-9b33-5504a16a135e.png)
 ---
 ### 21枚目のスライド
-![image](https://user-images.githubusercontent.com/87138262/159872492-b0257eee-648f-43ca-812d-f33e0efd53ad.png)
+![image](https://user-images.githubusercontent.com/87138262/161454956-d8b26128-feff-4367-9172-a2a0c91a302e.png)
 ---
 ### 22枚目のスライド
 ![image](https://user-images.githubusercontent.com/87138262/160512637-0dc053f5-6406-4f0a-8022-c8e9029850f7.png)
